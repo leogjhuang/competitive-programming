@@ -15,7 +15,11 @@
 1. To install GCC using Homebrew, enter the command `brew install gcc` in Terminal
 2. To precompile the bits/stdc++.h header file, enter the command `g++-10 -std=c++17 /usr/local/Cellar/gcc/10.2.0_4/include/c++/10.2.0/x86_64-apple-darwin20/bits/stdc++.h` in the Terminal
 
-## Setting up Sublime Text 3
-1. To create a new build system, open the command palette using Shift-Command-P and enter the command `Build: New Build System`
-2. To set up a testing environment for CP, create three new files `test.cpp`, `input.txt`, and `output.txt`
-3. To arrange the layout for the new files, set columns to 3 using Option-Command-3 and then select the `View ▶ Groups ▶ Max Columns: 2` menu item
+## Setting up Sublime Text 3 (use an x86 Terminal for M1 Macs)
+1. To install Sublime Text 3, enter the command `brew install sublime-text` in Terminal
+2. To create a new build system, open the command palette using Shift-Command-P and enter the command `Build: New Build System`
+3. To set up a testing environment for CP, create three new files `test.cpp`, `input.txt`, and `output.txt`
+4. To arrange the layout for the new files, set columns to 3 using Option-Command-3 and then select the `View ▶ Groups ▶ Max Columns: 2` menu item
+
+## Useful Homebrew casks
+`homebrew install adguard alfred bitwarden discord google-chrome zoom`
