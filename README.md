@@ -10,3 +10,8 @@
 2. To disable Homebrew analytics tracking, enter the command `brew analytics off` in Terminal
 3. To update Homebrew and all currently installed packages, enter the command `brew update && brew upgrade` in Terminal
 4. To remove old cache and log fiels, enter the command `brew cleanup` in Terminal
+
+## Setting up GCC and bits/stdc++.h (use an x86 Terminal for M1 Macs)
+1. To install GCC using Homebrew, enter the command `brew install gcc` in Terminal
+2. To precompile the bits/stdc++.h header file, enter the command `g++-10 -std=c++17 /usr/local/Cellar/gcc/10.2.0_4/include/c++/10.2.0/bits/stdc++.h"` and `g++-10 -std=c++17 /usr/local/Cellar/gcc/10.2.0_4/include/c++/10.2.0/x86_64-apple-darwin20/bits/stdc++.h` in the Terminal
+3. 
