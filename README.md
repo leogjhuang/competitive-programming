@@ -1,4 +1,5 @@
 # Competitive Programming
+*For more tips on setting up a development environment on macOS, visit this [guide](https://sourabhbajaj.com/mac-setup/)!*
 
 ## Setting up an M1 Mac
 1.  To install Command Line Tools, enter the command `xcode-select --install` in Terminal
