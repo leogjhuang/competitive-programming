@@ -24,4 +24,4 @@
 4. To arrange the layout for the new files, set columns to 3 using Option-Command-3 and then select the `View ▶ Groups ▶ Max Columns: 2` menu item
 
 ## Useful Homebrew casks
-`homebrew install alfred bitwarden coconutbattery discord google-chrome visual-studio-code zoom`
+`brew install alfred bitwarden coconutbattery discord google-chrome visual-studio-code zoom`
