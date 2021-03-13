@@ -5,6 +5,7 @@
 1.  To install Command Line Tools, enter the command `xcode-select --install` in Terminal
 2.  To install Rosetta 2, enter the command `softwareupdate --install-rosetta` in Terminal
 3.  To run an x86 Terminal, rename a duplicated Terminal to Terminal Rosetta, navigate to its Get Info window using Command-I, and enable `Open using Rosetta` 
+4.  softwareupdate --install -a
 
 ## Setting up Homebrew (use an x86 Terminal for M1 Macs)
 1. To install [Homebrew](https://brew.sh), enter the command `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"` in Terminal
