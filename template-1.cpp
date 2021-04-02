@@ -1,4 +1,4 @@
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
 
 void solve() {
@@ -10,8 +10,10 @@ int main() {
     cin.tie(0);
 
     int t = 1;
-    cin >> t;
+    // cin >> t;
     for (int i = 0; i < t; ++i) {
+        // cout << "Case #" << i + 1 << ": ";
         solve();
+        cout << '\n';
     }
 }
